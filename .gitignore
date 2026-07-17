@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Git
+.git/
+
+# Temp / large
+node_modules/
