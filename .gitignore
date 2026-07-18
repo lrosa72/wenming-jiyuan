@@ -20,3 +20,10 @@ __pycache__/
 
 # Temp / large
 node_modules/
+
+# 漫画分镜中间产物（JSON/PNG面板缓存）
+漫画分镜/*.json
+漫画分镜/jsons/
+漫画分镜/jsons2/
+漫画分镜/retry_panels/
+漫画分镜/p*.png
